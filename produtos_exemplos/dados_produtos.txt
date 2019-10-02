@@ -1,0 +1,59 @@
+***** PRODUTO 1 ***
+
+Codigo:134061706
+Tipo: Celular
+Preço:749
+Descrição:Smartphone samsung galaxy j4+ 32gb android tela infinita 6" quad-core 1.4ghz 4g
+Quantidade:25
+Marca: Samsung
+Modelo: SM-J415G/32DL
+Cor:Cobre
+Imagem:Prod1
+
+***** PRODUTO 2 ***
+
+Codigo: 134074321 
+Tipo: Celular
+Preço: 5.324,99
+Descrição:iphone xr 128gb preto ios12 4g + wi-fi câmera 12mp - apple
+Quantidade: 15
+Marca: Apple
+Modelo: iPhone Xr Black 128Gb-Lae
+Cor:Preto
+Imagem:Prod2
+
+***** PRODUTO 3 ***
+
+Codigo:133775934
+Tipo:Notebook
+Preço:2.479,99
+Descrição: notebook lenovo ideapad 330 intel core i5-8250u 8gb 1tb windows 10 
+Quantidade:20
+Marca: Lenovo
+Modelo:Ideapad 330
+Cor:Prata
+Imagem: Prod3
+
+***** PRODUTO 4 ***
+
+Codigo: 132809725
+Tipo: Câmera Digital
+Preço: 1.849,99
+Descrição:câmera canon digital t6 ef-s 18-55 f/3.5-5.6 iii br
+Quantidade:30
+Marca:Canon
+Modelo:DSLR
+Cor:Preta
+Imagem: Prod4
+
+***** PRODUTO 5 ***
+
+Codigo: 133822041
+Tipo:Tablet
+Preço: 1.699,00
+Descrição:tablet samsung galaxy tab a 10.5 t595
+Quantidade:10
+Marca:Samsung
+Modelo: Galaxy Tab A 10.5'
+Cor:Preto
+Imagem: Prod5 
